@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: mitosis.PcbDoc   6/1/2017  12:49:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : mitosis.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             45        PTH        115.18mm (4.53inch)
+T2      0.5mm (20mil)                                             Round             138       PTH        764.55mm (30.10inch)
+T3      0.9mm (35mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T4      1.1mm (43mil)                                             Round             48        PTH        554.81mm (21.84inch)
+T5      1.4mm (55mil)                                             Round             92        PTH        709.00mm (27.91inch)
+T6      1.7mm (67mil)                                             Round             46        PTH        643.67mm (25.34inch)
+T7      3.99mm (157mil)                                           Round             23        PTH        468.94mm (18.46inch)
+T8      2.2mm (87mil)                                             Round             9         NPTH       338.02mm (13.31inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              405
+
+Total Processing Time (hh:mm:ss) : 00:00:00

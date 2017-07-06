@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [altium-mitosis.PrjPcb]
+   Generated File[mitosis.TXT]
+   Generated File[mitosis.LDP]
+   Generated File[mitosis.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:49:59 PM On 6/1/2017
